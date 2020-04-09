@@ -1,0 +1,60 @@
+﻿State,Date of first transmission,1*incubation period before,2*incubation period before,Source,Comments
+Washington,16-Jan,02-Jan,19-Dec,https://www.doh.wa.gov/Emergencies/Coronavirus,Can refine to county data
+Oregon,10-Feb,27-Jan,13-Jan,https://public.tableau.com/profile/oregon.health.authority.covid.19#!/vizhome/OregonHealthAuthorityCOVID-19DataDashboard/COVID-19EPIConfirmed?:display_count=y&:toolbar=n&:origin=viz_share_link&:showShareOptions=false,
+California,26-Jan,12-Jan,29-Dec,https://www.ocregister.com/2020/02/04/risk-of-catching-coronavirus-in-so-cal-is-low-health-officials-say/,"Inferred date, released from hospital February 4th"
+Idaho,13-Mar,28-Feb,14-Feb,https://healthandwelfare.idaho.gov/AboutUs/Newsroom/tabid/130/articleType/ArticleView/articleId/2087/First-case-of-novel-coronavirus-in-Idaho-has-been-confirmed.aspx,Can't access link…
+Nevada,03-Mar,18-Feb,04-Feb,https://nvhealthresponse.nv.gov/,"Earliest recorded on health board, might not be first ever…"
+Utah,06-Mar,21-Feb,07-Feb,https://health.utah.gov/featured-news/utah-health-officials-announce-first-case-of-covid-19,
+Arizona,19-Jan,05-Jan,22-Dec,https://www.azdhs.gov/,
+Montana,01-Mar,16-Feb,02-Feb,https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt/demographics,"No Data reported before this point, could be earlier cases"
+Wyoming,11-Feb,28-Jan,14-Jan,https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/covid-19-map-and-statistics/,
+Colorado,05-Mar,20-Feb,06-Feb,https://covid19.colorado.gov/case-data,No Data reported before this point
+New Mexico,11-Mar,26-Feb,12-Feb,https://cv.nmhealth.org/2020/03/11/new-mexico-announces-first-presumptive-positive-covid-19-cases/,
+North Dakota,11-Mar,26-Feb,12-Feb,https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases,
+South Dakota,11-Mar,26-Feb,12-Feb,https://eu.argusleader.com/story/news/2020/03/10/south-dakota-coronavirus-update-first-case-covid-19/4999413002/, 
+Nebraska,06-Mar,21-Feb,07-Feb,http://dhhs.ne.gov/Pages/First-Presumptive-Positive-Case-of-Coronavirus-2019-Reported-to-Nebraska-DHHS.aspx/,Cant Access UK- presumably GDPR?
+Kansas,07-Mar,22-Feb,08-Feb,https://www.kcur.org/post/first-case-coronavirus-kansas-confirmed-johnson-county#stream/0,
+Oklahoma,Mar-20,22-Feb,08-Feb,https://oklahoman.com/article/5656803/first-case-of-coronavirus-in-oklahoma-confirmed,Symptomatic Feb 29
+Texas,06-Mar,21-Feb,07-Feb,https://www.dshs.state.tx.us/coronavirus/,Can refine to county level
+Minnesota,06-Mar,21-Feb,07-Feb,https://www.health.state.mn.us/diseases/coronavirus/situation.html,
+Iowa,08-Mar,23-Feb,09-Feb,https://idph.iowa.gov/News/ArtMID/646/ArticleID/158296/COVID-19-Presumptively-Confirmed-in-Three-Iowa-Residents-3820,
+Missouri,07-Mar,22-Feb,08-Feb,https://governor.mo.gov/press-releases/archive/governor-parson-state-and-local-officials-confirm-first-case-covid-19-test,
+Arkansas,11-Mar,26-Feb,12-Feb,https://governor.arkansas.gov/news-media/press-releases/governor-hutchinson-confirms-states-first-presumptive-positive-covid-19-cas,
+Michigan,10-Mar,25-Feb,11-Feb,https://www.clickondetroit.com/health/2020/03/24/michigan-coronavirus-timeline-key-dates-covid-19-case-tracking-state-orders/,
+Wisconsin,05-Feb,22-Jan,08-Jan,https://www.wiscontext.org/learn-more-about-novel-coronavirus-covid-19-and-wisconsin,
+Illinois,Jan-20,10-Jan,27-Dec,http://www.dph.illinois.gov/covid19,
+Indiana,06-Mar,21-Feb,07-Feb,https://coronavirus.in.gov/,
+Kentucky,06-Mar,21-Feb,07-Feb,https://governor.ky.gov/covid19,"Inferred from 'update since first case', could be sooner"
+Tennasee,06-Mar,21-Feb,07-Feb,https://eu.tennessean.com/story/news/health/2020/03/05/coronavirus-tennessee-department-health-bill-lee/4962037002/, 
+Missisipi,28-Feb,14-Feb,31-Jan,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+Alabama,13-Mar,28-Feb,14-Feb,https://www.alabamapublichealth.gov/news/2020/03/13.html,
+Ohio,01-Mar,16-Feb,02-Feb,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards,"Records all individual cases including county, but does not record date for a large cohort so start date may be even earlier"
+Maine,12-Mar,27-Feb,13-Feb,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml,
+New Hampshire,09-Mar,24-Feb,10-Feb,https://www.nh.gov/covid19/news/updates.htm,"Records possible infection as early as 28 February, but first official record is 9 March"
+Vermont,07-Mar,22-Feb,08-Feb,https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont,
+Rhode Island,01-Mar,16-Feb,02-Feb,https://www.ri.gov/press/view/37818,
+Massachusets,02-Mar,17-Feb,03-Feb,https://www.mass.gov/news/first-presumptive-positive-case-of-covid-19-identified-by-massachusetts-state-public-health,
+Conneticut,03-Mar,18-Feb,04-Feb,https://portal.ct.gov/Coronavirus,
+New York,05-Mar,20-Feb,06-Feb,https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-DailyTracker?%3Aembed=yes&%3Atoolbar=no&%3Atabs=n,
+Pennsylvania,06-Mar,21-Feb,07-Feb,https://www.governor.pa.gov/newsroom/wolf-administration-confirms-two-presumptive-positive-cases-of-covid-19/,
+West Virginia,13-Mar,28-Feb,14-Feb,https://dhhr.wv.gov/COVID-19/Pages/default.aspx,
+Delaware,11-Mar,26-Feb,12-Feb,https://coronavirus.delaware.gov/latest-data/,
+Maryland,05-Mar,20-Feb,06-Feb,https://coronavirus.maryland.gov/,
+Washington DC,21-Jan,07-Jan,24-Dec,https://www.dcpolicycenter.org/publications/covid-19-timeline/,
+Virginia,24-Feb,10-Feb,27-Jan,http://www.vdh.virginia.gov/coronavirus/,
+North Carolina,03-Mar,18-Feb,04-Feb,https://www.ncdhhs.gov/news/press-releases/north-carolina-identifies-first-case-covid-19,
+South Carolina,06-Mar,21-Feb,07-Feb,https://www.scdhec.gov/news-releases/dhec-investigating-two-possible-cases-2019-novel-coronavirus-south-carolina,Presumptive Positive
+Georgia,02-Mar,17-Feb,03-Feb,https://www.wsbtv.com/news/local/first-cases-coronavirus-confirmed-georgia/4P22YK37OBF2ZIC5VY2YOX7KDE/,Possible earlier case
+Florida,01-Mar,16-Feb,02-Feb,https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86,"Hard to see, also from here"
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
